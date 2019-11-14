@@ -3,9 +3,9 @@
 
 ## 1. The Role of Python
 
-* Prerequisites
-* Why Python is great for marketers
-* Why Python is valuable for marketers
+* Basic Python
+* Why Python ?
+* Why Pandas ?
 
 ## 2. Loading and Exploring Your Data
 
